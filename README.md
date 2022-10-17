@@ -1,6 +1,8 @@
 # SPSGP-77625-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
-# Google Developer Profile:- https://g.dev/GayathriLakshmi 
+
+Google Developer Profile:- https://g.dev/GayathriLakshmi 
+
 Grocery Management System
 
 A grocery shopping is an android application where users can purchase and order groceries online. The system is developed with a user-friendly and attractive GUI. It delivers a wide range of groceries available online.
